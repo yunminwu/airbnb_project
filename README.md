@@ -1,4 +1,4 @@
-# Analysis of the Airbnb data for Mallorca (Jul 2020 and Jun 2021)
+# Analysis of the Airbnb data for Mallorca (Jul 2020 - Jun 2021)
 
 This is the analysis of the Airbnb data for the blog post "How to be a successful Airbnb host - A field guide for Mallorca".<br />
 <br />
